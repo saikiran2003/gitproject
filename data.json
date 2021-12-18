@@ -1,0 +1,22 @@
+{
+    "cards":[{
+          "img":"images/pic1.jpg",
+          "name":"oppo",
+          "rate":"10000",
+          "offer":"7000",
+          "button":"view"
+    },{
+        "img":"images/pic2.jpg",
+          "name":"realme",
+          "rate":"17000",
+          "offer":"13000",
+          "button":"view"
+    },{
+            "img":"images/pic3.jpg",
+              "name":"Apple",
+              "rate":"70000",
+              "offer":"55000",
+              "button":"view"
+    }
+  ]
+}
